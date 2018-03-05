@@ -1,0 +1,35 @@
+/* Trivia Game */
+
+body {
+   background-image: url("../images/background.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+#title{
+  font-size: 120px;
+}
+/* #subwrapper{
+  font-color: red;
+} */
+
+/* #start{
+  button: rounded;
+} */
+
+#timer{
+  font-size: 120px;
+}
+
+#correct{
+
+}
+
+#incorrect{
+
+}
+
+#unanswered{
+
+}
+
